@@ -1,0 +1,36 @@
+[
+	{
+		"pedido: "2 Máscara de Cabelo Wella – Nutrição e Reparação Profunda",
+		"dataPedido": "28/02/2022",
+		"preçoPedido": "R$200,25",
+                "comprador": "Alex Sander Provisório"
+	}
+	{
+		"pedido: "1 Óleo Capilar Wella – Nutrição, Brilho e Proteção- 2 Ampola de Hidratação Eico – Restauração e Maciez",
+		"dataPedido": "15/10/2016",
+		"preçoPedido": "R$250,32",
+                "comprador": "Eloah Carvalho Kupt"
+ 
+	}
+	{
+		"pedido: "3 Pré-Poo Eudora Hot Therapy – Proteção e Nutrição Antes da Lavagem",
+		"dataPedido": "09/07/2020",
+		"preçoPedido": "R$180,00",
+                "comprador": "Maria Eduarda Ferreira"
+ 
+	}
+	{
+		"pedido: "Protetor Térmico Braé – Proteção, Força e Brilho",
+		"dataPedido": "07/04/2014",
+		"preçoPedido": "R$95,50",
+                "comprador": "Neil Saborido"
+ 
+	}
+	{
+		"pedido: "1 Máscara de Cabelo Wella – Nutrição e Reparação Profunda- 1 Protetor Térmico Braé – Proteção, Força e Brilho- 1 Óleo Capilar Wella – Nutrição, Brilho e Proteção",
+		"dataPedido": "22/12/2019",
+		"preçoPedido": "R$312,90",
+                "comprador": "Tainá Franghieru"
+ 
+	}
+	]
